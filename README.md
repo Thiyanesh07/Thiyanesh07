@@ -34,25 +34,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Thiyanesh07&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Thiyanesh07&theme=tokyonight" />
-</p>
-
----
-
-## 📈 Contribution Graph (3D style)
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Thiyanesh07&theme=tokyo-night"/>
-</p>
-
----
 
 ## 🌱 Currently Learning
 - Deep Learning
